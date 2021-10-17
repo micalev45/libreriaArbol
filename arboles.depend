@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1634504173 source:c:\users\micaela\desktop\utn\i año\ii cuatrimestre\prog y lab ii\2 parciales\proyectos\arboles\main.c
+	<stdio.h>
+	<stdlib.h>
+	"time.h"
+	"libreriaArboles.h"
+
+1634504143 c:\users\micaela\desktop\utn\i año\ii cuatrimestre\prog y lab ii\2 parciales\proyectos\arboles\libreriaarboles.h
+
+1634504143 source:c:\users\micaela\desktop\utn\i año\ii cuatrimestre\prog y lab ii\2 parciales\proyectos\arboles\libreriaarboles.c
+	<stdio.h>
+	<stdlib.h>
+	"time.h"
+	"libreriaArboles.h"
+
